@@ -1,0 +1,87 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@fontsource/roboto": "^5.0.12",
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mui/icons-material": "^5.15.15",
+    "@mui/lab": "^5.0.0-alpha.170",
+    "@mui/material": "^5.15.15",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.18",
+    "@mui/x-data-grid": "^6.19.6",
+    "@mui/x-data-grid-pro": "^7.4.0",
+    "@react-pdf/renderer": "^3.4.4",
+    "@reduxjs/toolkit": "^2.2.1",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "aos": "^2.3.4",
+    "axios": "^1.6.8",
+    "bootstrap": "^5.3.3",
+    "crypto-js": "^4.2.0",
+    "date-fns": "^3.6.0",
+    "date-holidays": "^3.23.10",
+    "faker": "^6.6.6",
+    "formik": "^2.4.5",
+    "jquery": "^3.7.1",
+    "js-base64": "^3.7.7",
+    "lucide-react": "^0.362.0",
+    "node-datetime": "^2.1.2",
+    "react": "^18.2.0",
+    "react-apexcharts": "^1.4.1",
+    "react-bootstrap": "^2.10.2",
+    "react-bootstrap-forms": "^0.0.1",
+    "react-bootstrap-table-next": "^4.0.3",
+    "react-bootstrap-table2-editor": "^1.4.0",
+    "react-bootstrap-table2-paginator": "^2.1.2",
+    "react-bootstrap-v5": "^1.4.0",
+    "react-csv": "^2.2.2",
+    "react-data-export": "^0.6.0",
+    "react-dom": "^18.2.0",
+    "react-google-recaptcha": "^3.1.0",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^5.1.0",
+    "react-otp-input": "^3.1.1",
+    "react-pdf": "^8.0.2",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.22.3",
+    "react-script": "^2.0.5",
+    "react-scripts": "5.0.1",
+    "socket.io-client": "^4.7.5",
+    "styled-components": "^6.1.8",
+    "sweetalert2": "^11.10.7",
+    "web-vitals": "^2.1.4",
+    "xlsx": "^0.18.5",
+    "yup": "^1.4.0",
+    "zero-styled": "^0.2.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
